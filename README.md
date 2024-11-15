@@ -1,5 +1,7 @@
 # ft_printf
 
+<img src="https://c.top4top.io/p_32365zw4d1.png" alt="Libft Logo" width="200"/>
+
 Welcome to the **ft_printf** repository! This project is an implementation of the classic `printf` function in C. The goal of this project was to create a custom version of `printf` with the ability to format strings, integers, characters, and more, just like the original function, but in a lightweight and efficient way.
 
 ---
